@@ -2,7 +2,7 @@
 
 ## 推荐系统公开课——王树森
 
-(Chinese) A series of videos explaining real recommendation systems in industry by [Shusen Wang](ShusenWang).
+(Chinese) A series of videos explaining real recommendation systems in industry by [Shusen Wang](https://wangshusen.github.io/).
 
 [BiliBili](https://www.bilibili.com/video/BV1PS4y1A7za) / [GitHub](https://github.com/wangshusen/RecommenderSystem)
 

@@ -30,4 +30,4 @@ Gorse is an open-source recommendation system written in Go. Gorse aims to be a 
 5. FM
 :::
 
-[GitHub](https://github.com/twitter/GraphJet) / [Website](https://gorse.io/) / [Algorithms]((https://gorse.io/docs/master/concepts/algorithms.html))
+[GitHub](https://github.com/twitter/GraphJet) / [Website](https://gorse.io/) / [Algorithms](https://gorse.io/docs/master/concepts/algorithms.html)
